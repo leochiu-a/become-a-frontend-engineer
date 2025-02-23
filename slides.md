@@ -3,13 +3,14 @@
 # like them? see https://unsplash.com/collections/94734566/slidev
 background: https://cover.sli.dev
 # some information about your slides (markdown enabled)
-title: Frontend Engineer Beginner
+title: Become a Frontend Engineer
 class: text-center
 # slide transition: https://sli.dev/guide/animations.html#slide-transitions
 transition: slide-left
+theme: Seriph
 ---
 
-# Frontend Engineer Beginner
+# Become a Frontend Engineer
 
 <div @click="$slidev.nav.next" class="mt-12 py-1" hover:bg="white op-10">
   Let's start <carbon:arrow-right />
@@ -76,7 +77,7 @@ transition: slide-up
 - KKday 前端工程師
 - Hahow 前端工程師
 - 第 13 屆 IT 鐵人佳作 - 從零開始學習 Next.js
-- 2021 JSDC 演講 - 為什麼許多公司都願意導入 Next.js
+- 2021 JSDC - 為什麼許多公司都願意導入 Next.js
 
 <br>
 
@@ -103,15 +104,29 @@ title: awwwards
 layout: center
 ---
 
-# 所以前端是什麼？
+# 把設計稿變成網頁
+# 然後祈禱它在所有瀏覽器上都能正常顯示
 
-<v-clicks>
+---
+layout: center
+---
 
-- 做出漂亮的畫面
-- 跟設計師與其他工程師協作
-- 串接 API
+# HTML：網頁的骨架
+# CSS：網頁的衣服
+# JavaScript：網頁的靈魂，偶爾也會讓它中邪
 
-</v-clicks>
+---
+layout: center
+---
+
+# 寫 CSS 的時候，你以為自己是藝術家
+# 結果發現自己是在解數學題
+
+---
+layout: center
+---
+
+# 響應式設計：讓網頁在手機、平板、電腦上都能完美顯示，除了 Safari
 
 ---
 layout: image
@@ -186,8 +201,9 @@ layout: center
 layout: center
 ---
 
-
-# 了解什麼是 HTML / CSS / JavaScript ？
+# HTML：網頁的骨架
+# CSS：網頁的衣服
+# JavaScript：網頁的靈魂，偶爾也會讓它中邪
 
 ---
 
@@ -277,5 +293,20 @@ layout: center
 - 作品集：GitHub、CodePen
 
 ---
+layout: center
+---
+
+<div style="text-align: center; margin-bottom: 32px">
 
 # Q&A
+
+</div>
+
+<img src="/assets/qrcode_linktr.ee.png" width="200" />
+
+
+---
+layout: center
+---
+
+# Thanks you
