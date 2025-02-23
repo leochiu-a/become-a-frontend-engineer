@@ -7,7 +7,7 @@ title: Become a Frontend Engineer
 class: text-center
 # slide transition: https://sli.dev/guide/animations.html#slide-transitions
 transition: slide-left
-theme: Seriph
+theme: seriph
 ---
 
 # Become a Frontend Engineer
